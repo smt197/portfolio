@@ -16,7 +16,7 @@ const Hero = () => {
               Passionate about clean code and user-centric design.
             </p>
             <div className="flex space-x-4">
-              <a href="https://github.com" target="_blank" rel="noopener noreferrer" 
+              <a href="https://github.com/smt197" target="_blank" rel="noopener noreferrer" 
                 className="p-2 bg-gray-900 text-white rounded-full hover:bg-gray-700 transition-colors">
                 <Github className="h-6 w-6" />
               </a>
